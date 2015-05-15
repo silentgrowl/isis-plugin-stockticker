@@ -21,3 +21,7 @@ And then execute:
 ## Usage
 
 To post the latest stock ticker report into a room, type ```!stockticker```, ```!stocks```, ```!stockquotes```, ```!ticker```, or ```!yahoofinance``` into chat.
+
+## Links
+
+* [isis-plugin-stockticker on RubyGems](https://rubygems.org/gems/isis-plugin-stockticker)
